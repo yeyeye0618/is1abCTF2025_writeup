@@ -70,4 +70,5 @@
 | Information Security | Easy |  李宜鴻   |    V    |
 
 成績 : 6 / 58
+
 ![記分板](rank.png)
