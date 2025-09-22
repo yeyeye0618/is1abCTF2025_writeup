@@ -32,4 +32,4 @@ password= ' OR 1=1 --
 ```
 ![image](https://hackmd.io/_uploads/BJCRVu9iee.png)
 就撈到 flag 了
-flag : `is1abCTF{UcCE5sFu11y_L34KeD_$EcRET_D@7A}``
+flag : `is1abCTF{UcCE5sFu11y_L34KeD_$EcRET_D@7A}`
