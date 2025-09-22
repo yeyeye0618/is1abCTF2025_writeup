@@ -1,8 +1,3 @@
----
-title: BabyShell
-
----
-
 ## Babyshell
 hackmd 連結 : [BabyShell](https://hackmd.io/@yeyeye618/HkKzHd5seg)
 熟悉的名稱
