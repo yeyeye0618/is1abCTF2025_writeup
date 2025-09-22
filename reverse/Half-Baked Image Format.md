@@ -98,7 +98,7 @@ if __name__ == '__main__':
 3. 重組 RGB 成圖片
 
 `exploit.py`:
-```
+```python
 from PIL import Image
 
 def read_channel(data, offset, tag, w, h):
